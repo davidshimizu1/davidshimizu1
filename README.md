@@ -26,7 +26,7 @@ I'm a **Mechanical Engineering student at UC San Diego** passionate about buildi
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<!--
+
 ---
 
 ## 🔭 Projects
@@ -36,7 +36,7 @@ I'm a **Mechanical Engineering student at UC San Diego** passionate about buildi
 
 ### 📡 Custom Bluetooth 5.0 HID Dongle
 4-layer Altium PCB with impedance-matched RF traces and a magnetic Fusion 360 enclosure. Validated at 280ft LOS range, -88dBm RSSI, and <20ms HID latency.
-
+<!--
 ### 🚗 Autonomous Vehicle — MAE 148
 1/8-scale autonomous vehicle on ROS2/Raspberry Pi 5 with behavior-cloned camera control, RTK GPS, and HSV lane detection. Reduced lap time from 145s → 53s and boosted object detection from 61 → 340 FPS with an AI HAT+.
 -->
