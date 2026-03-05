@@ -1,6 +1,6 @@
 # Hi, I'm David Shimizu 👋
 
-I'm a **Mechanical Engineering student at UC San Diego** passionate about building hardware and software systems from the ground up — from custom PCBs to autonomous vehicles.
+I'm a **Mechanical Engineering student at UC San Diego** passionate about building hardware and software systems from the ground up.
 
 ---
 
@@ -39,6 +39,13 @@ I'm a **Mechanical Engineering student at UC San Diego** passionate about buildi
 ### 🚗 Autonomous Vehicle — MAE 148
 1/8-scale autonomous vehicle on ROS2/Raspberry Pi 5 with behavior-cloned camera control, RTK GPS, and HSV lane detection. Reduced lap time from 145s → 53s and boosted object detection from 61 → 340 FPS with an AI HAT+.
 -->
+---
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidshimizu1&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidshimizu1&layout=compact&theme=default&hide_border=true)
+
 ---
 
 ## 📫 Get in Touch
