@@ -25,6 +25,7 @@ I'm a **Mechanical Engineering student at UC San Diego** passionate about buildi
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=solidworks&logoColor=white)
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 <!--
 ---
 
@@ -39,7 +40,9 @@ I'm a **Mechanical Engineering student at UC San Diego** passionate about buildi
 ### 🚗 Autonomous Vehicle — MAE 148
 1/8-scale autonomous vehicle on ROS2/Raspberry Pi 5 with behavior-cloned camera control, RTK GPS, and HSV lane detection. Reduced lap time from 145s → 53s and boosted object detection from 61 → 340 FPS with an AI HAT+.
 -->
+
 ---
+
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidshimizu1&show_icons=true&theme=default&hide_border=true)
