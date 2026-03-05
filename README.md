@@ -3,7 +3,7 @@
 I'm a **Mechanical Engineering student at UC San Diego** passionate about building hardware and software systems from the ground up.
 
 ---
-
+<!--
 ## 🛠️ Technical Skills
 
 **Hardware & Embedded**
@@ -28,7 +28,7 @@ I'm a **Mechanical Engineering student at UC San Diego** passionate about buildi
 
 
 ---
-
+-->
 ## 🔭 Projects
 
 ### 🖩 Custom Dual-Radio Calculator & Bluetooth HID Macropad
