@@ -43,14 +43,6 @@ I'm a **Mechanical Engineering student at UC San Diego** passionate about buildi
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidshimizu1&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidshimizu1&layout=compact&theme=default&hide_border=true)
-
----
-
 ## 📫 Get in Touch
 
 - 💼 [LinkedIn](https://linkedin.com/in/davidshimizu)
