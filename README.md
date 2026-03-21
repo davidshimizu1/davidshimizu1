@@ -28,7 +28,7 @@ I'm a **Mechanical Engineering student at UC San Diego** passionate about buildi
 
 
 ---
--->
+
 ## 🔭 Projects
 
 ### 🖩 Custom Dual-Radio Calculator & Bluetooth HID Macropad
@@ -39,10 +39,9 @@ I'm a **Mechanical Engineering student at UC San Diego** passionate about buildi
 <!--
 ### 🚗 Autonomous Vehicle — MAE 148
 1/8-scale autonomous vehicle on ROS2/Raspberry Pi 5 with behavior-cloned camera control, RTK GPS, and HSV lane detection. Reduced lap time from 145s → 53s and boosted object detection from 61 → 340 FPS with an AI HAT+.
--->
 
 ---
-
+-->
 ## 📫 Get in Touch
 
 - 💼 [LinkedIn](https://linkedin.com/in/davidshimizu)
