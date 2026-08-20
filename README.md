@@ -1,6 +1,6 @@
-# Hi, I'm David Shimizu 👋
+# Hi, I'm David Shimizu 
 
-I'm a **Mechanical Engineering student at UC San Diego** passionate about building hardware and software systems from the ground up.
+I'm a **Mechanical Engineering student at UC San Diego**.
 
 ---
 <!--
